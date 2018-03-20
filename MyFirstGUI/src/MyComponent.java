@@ -7,7 +7,7 @@ import java.awt.geom.Line2D;
 import javax.swing.JComponent;
 
 public class MyComponent extends JComponent {
-
+	//comentary
 	public void paintComponent(Graphics g) {
 		
 		Graphics2D g2 = (Graphics2D) g;
